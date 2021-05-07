@@ -1,4 +1,4 @@
-# mern-stack
+# MERN-stack
 
 .env
 MONGODB_URI=
